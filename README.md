@@ -6,7 +6,7 @@ Este projeto tem como objetivo apresentar os primeiros passos no mundo da eletr�
 
 ## Etapa 1 – Testando um LED diretamente com a bateria ⚠️
 
-![Etapa 1 - LED sem resistor](./000.png)
+![Etapa 1 - LED sem resistor](https://github.com/user-attachments/assets/434fac46-d14f-4e58-990f-fc7038e816e8)
 
 **Objetivo:**  
 Observar o comportamento do LED sem proteção.
@@ -21,7 +21,7 @@ Essa etapa serve para demonstrar que o LED não deve ser ligado diretamente a um
 
 ## Etapa 2 – LED com resistor limitador 🔧
 
-![Etapa 2 - LED com resistor](./001.png)
+![Etapa 2 - LED com resistor](https://github.com/user-attachments/assets/dd60bcaa-8260-4c8b-b34c-2fcbf57e1f61)
 
 **Objetivo:**  
 Controlar a corrente que passa pelo LED, garantindo sua segurança e funcionamento adequado.
@@ -36,7 +36,7 @@ Essa montagem mostra um conceito-chave da eletrônica: **o uso de resistores par
 
 ## Etapa 3 – Controle do LED com Arduino 💻
 
-![Etapa 3 - LED com Arduino](./002.png)
+![Etapa 3 - LED com Arduino](https://github.com/user-attachments/assets/8c0675f2-9d9e-4643-a7bc-ffa4b5db8ecb)
 
 **Objetivo:**  
 Integrar programação com eletrônica, utilizando um microcontrolador para acionar o LED.
