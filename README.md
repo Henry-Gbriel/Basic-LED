@@ -59,7 +59,9 @@ Essa etapa introduz o mundo da automação e programação embarcada.
 ---
 
 ## Código Arduino – Piscar LED com Delay
-
+<p><strong>Declaração da variável:</strong> A variável <code>led_one</code> representa o pino digital 2 onde o LED está conectado.</p>
+<p><strong>setup():</strong> Configura o pino como saída.</p>
+<p><strong>loop():</strong> Liga o LED por 1 segundo, depois desliga por 1 segundo. Esse ciclo se repete infinitamente.</p>
 
 <h2>📄 Licença</h2>
 <p>Este projeto está licenciado sob a <a href="LICENSE">MIT License</a>.</p>
