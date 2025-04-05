@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo apresentar os primeiros passos no mundo da eletrônica utilizando LEDs. Ele é dividido em três etapas de aprendizado e montagem, indo desde um circuito simples com bateria até a utilização do Arduino. Acompanhe cada fase para entender os conceitos fundamentais.
 
+link do autodesk tinkercad: https://www.tinkercad.com/things/6skFEhsksaB-funcled
+
 ---
 
 ## Etapa 1 – Testando um LED diretamente com a bateria ⚠️
